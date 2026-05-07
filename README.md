@@ -1,4 +1,4 @@
-These are the code for my project: "Belief Dynamics in Time-varying Influence
+These are the codes for my project: "Belief Dynamics in Time-varying Influence
 Networks with Logic Constraints and
 Stochastic Interactions" 
 
