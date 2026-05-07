@@ -6,3 +6,5 @@ There are two main files which  are used to run the simulation.
 
 1. MainConstantW.m is for opinion simulations in static social inflence network
 2. MainDynamicW.m is for opinion simulation in time-varying network
+
+The "matrices" folder contains files used to create corresponding matrices and plots.
